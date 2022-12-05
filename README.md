@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucasRZamboni
 - 👀 I’m interested in an oportunity to work as a C# programer
-- 🌱 I’m currently learning more about C# but i have some knowledge
+- 🌱 I’m currently learning more about C# and HTML and CSS, but i have some knowledge
 - 💞️ I’m looking to collaborate on projects that the programer need some help
 - 📫 How to reach me just mail me lucasrzamboni@hotmail.com
 
