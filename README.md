@@ -1,9 +1,12 @@
 - 👋 Hi, I’m Lucas Zamboni
+
 ##
+
 - 👀 I’m interested in an oportunity to work as a C# programer
 - 🌱 I’m currently learning more about C#, HTML, CSS and Javascript, but i have some knowledge
-- 💞️ I’m looking to collaborate on projects that the programer need some help
-- 📫 How to reach me just mail me lucasrzamboni@hotmail.com
+
+##
+
 <div align="center">
 <img align="center" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://64.media.tumblr.com/54f4fe3c7c2d7c1b8a6b68eb9b62338f/tumblr_phbq2fElHS1ut1d6co1_540.gif?width=676&height=676">
 </div>
