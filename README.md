@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in an oportunity to work as a programer
 - 🌱 I’m currently learning more about C#, HTML, CSS and Javascript, but i have some knowledge
-- Here you can know more about me https://github.com/LucasRZamboni/ThisIsMe.git
+- Here you can know more about me https://lucasrzamboni.github.io/ThisIsMe/
 ##
 
 <div align="center">
